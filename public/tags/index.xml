@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Economia Integral</title>
+    <link>//localhost:4321/tags/</link>
+    <description>Recent content in Tags on Economia Integral</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estruturas De Mercado</title>
+      <link>//localhost:4321/tags/estruturas-de-mercado/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/estruturas-de-mercado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hicks-Hansen</title>
+      <link>//localhost:4321/tags/hicks-hansen/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/hicks-hansen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monopólio</title>
+      <link>//localhost:4321/tags/monop%C3%B3lio/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/monop%C3%B3lio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mundell-Fleming</title>
+      <link>//localhost:4321/tags/mundell-fleming/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/mundell-fleming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>//localhost:4321/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>//localhost:4321/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+baseURL: /
+title: Breno Oliveira
+theme: hugo-coder
+languageCode: pt-br
+defaultContentLanguage: pt-br
+paginate: 6
+enableEmoji: yes
+services:
+  disqus: {}
+markup:
+  highlight:
+    noClasses: no
+params:
+  author: Introspecto Econômico
+  avatarURL: images/avatar.png
+  colorScheme: auto
+  commit: https://github.com/luizdepra/hugo-coder/tree/
+  customCSS: []
+  customJS: []
+  customRemoteJS: []
+  customSCSS: []
+  dateFormat: 2 de January de 2006
+  description: Blog pessoal
+  hideColorSchemeToggle: no
+  info:
+    - Repositório Acadêmico
+  keywords: blog,developer,personal
+  maxSeeAlsoItems: 5
+  rtl: no
+  since: 2024
+  social:
+    - icon: fa-brands fa-github fa-2x
+      name: Github
+      url: https://github.com/breno-econ
+      weight: 1
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
+languages:
+  pt-br:
+    languageName: ':brazil:'
+    menu:
+      main:
+        - name: Sobre
+          url: about/
+          weight: 4
+        - name: Publicações
+          url: posts/
+          weight: 1
+        - name: Categorias
+          url: series/
+          weight: 2
+        - name: Tags
+          url: Tags/
+          weight: 3     
+        - name: Contato
+          url: contact/
+          weight: 4
+    params:
+      author: Economia Integral
+      description: 
+      info: Por [Breno Oliveira](https://github.com/breno-econ)
+      keywords: 
+    title: Economia Integral

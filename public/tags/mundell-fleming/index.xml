@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mundell-Fleming on Economia Integral</title>
+    <link>//localhost:4321/tags/mundell-fleming/</link>
+    <description>Recent content in Mundell-Fleming on Economia Integral</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/mundell-fleming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Modelo Mundell-Fleming</title>
+      <link>//localhost:4321/posts/modelo-is-lm-bp/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/posts/modelo-is-lm-bp/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
