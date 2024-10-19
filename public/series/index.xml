@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Economia Integral</title>
-    <link>//localhost:4321/series/</link>
-    <description>Recent content in Series on Economia Integral</description>
+    <title>Series on Elasticidade do Saber</title>
+    <link>/series/</link>
+    <description>Recent content in Series on Elasticidade do Saber</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Macroeconomia</title>
-      <link>//localhost:4321/series/macroeconomia/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/series/macroeconomia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microeconomia</title>
-      <link>//localhost:4321/series/microeconomia/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/series/microeconomia/</guid>
+      <title>Modelos Macroeconômicos</title>
+      <link>/series/modelos-macroecon%C3%B4micos/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/series/modelos-macroecon%C3%B4micos/</guid>
       <description></description>
     </item>
   </channel>

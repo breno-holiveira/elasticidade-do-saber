@@ -1,53 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Economia Integral</title>
-    <link>//localhost:4321/</link>
-    <description>Recent content on Economia Integral</description>
+    <title>Elasticidade do Saber</title>
+    <link>//localhost:6631/</link>
+    <description>Recent content on Elasticidade do Saber</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:6631/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Estruturas de Mercado | Monopólio</title>
-      <link>//localhost:4321/posts/monopolio/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/monopolio/</guid>
-      <description></description>
+      <title>O modelo Hicks-Hansen</title>
+      <link>//localhost:6631/posts/2024-10-19-hicks-hansen/modelo-is-lm/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:6631/posts/2024-10-19-hicks-hansen/modelo-is-lm/</guid>
+      <description>&lt;h1 id=&#34;definição&#34;&gt;&#xA;  Definição&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#defini%c3%a7%c3%a3o&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;O modelo Hicks-Hansen, também conhecido como modelo keynesiano generalizado ou modelo IS-LM, é uma representação econômica simplificada que descreve a interação entre o mercado de bens e serviços e o mercado monetário, por meio das curvas IS (&lt;em&gt;Investment-Saving&lt;/em&gt;) e LM (&lt;em&gt;Liquidity Money&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;A essência do modelo consiste em explicar como as políticas macroeconômicas impactam a determinação da taxa de juros e do nível de atividade no curto prazo, considerando que a economia esteja sempre em equilíbrio — ou seja, no ponto de interseção entre as curvas IS e LM.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>O Modelo Hicks-Hansen</title>
-      <link>//localhost:4321/posts/modelo-is-lm/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/modelo-is-lm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>O Modelo Mundell-Fleming</title>
-      <link>//localhost:4321/posts/modelo-is-lm-bp/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/modelo-is-lm-bp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sobre</title>
-      <link>//localhost:4321/about/</link>
+      <title></title>
+      <link>//localhost:6631/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/</guid>
-      <description></description>
+      <guid>//localhost:6631/about/</guid>
+      <description>&lt;h1 id=&#34;sobre-o-blog&#34;&gt;&#xA;  Sobre o blog&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#sobre-o-blog&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Este blog, desenvolvido em Linguagem R e Markdown, é mantido por &lt;a href=&#34;https://github.com/breno-holiveira&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breno Oliveira&lt;/a&gt; com o objetivo de registrar informações relevantes sobre economia, servindo tanto a estudantes quanto a interessados. Enquanto anotações físicas e documentos digitais frequentemente se perdem com o tempo ou têm acesso restrito, sites estáticos de domínio público permanecem sempre acessíveis. A proposta aqui é utilizar o blog como um repositório acadêmico de acesso público.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:6631/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:6631/contact/</guid>
+      <description>&lt;h1 id=&#34;contato&#34;&gt;&#xA;  Contato&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contato&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Você pode entrar em contato com o autor por meio dos endereços de e-mail abaixo:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:breno.oliveira251@outlook.com&#34; &gt;breno.oliveira251@outlook.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:breno.ho@puccampinas.edu.br&#34; &gt;breno.ho@puccampinas.edu.br&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Categorias</title>
-      <link>//localhost:4321/projects/</link>
+      <link>//localhost:6631/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contato</title>
-      <link>//localhost:4321/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/contact/</guid>
+      <guid>//localhost:6631/projects/</guid>
       <description></description>
     </item>
   </channel>

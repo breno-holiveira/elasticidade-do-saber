@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelos Gerais on Elasticidade do Saber</title>
+    <link>/series/modelos-gerais/</link>
+    <description>Recent content in Modelos Gerais on Elasticidade do Saber</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/series/modelos-gerais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O modelo Mundell-Fleming</title>
+      <link>/posts/2024-10-19-mundell-fleming/modelo-is-lm-bp/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/2024-10-19-mundell-fleming/modelo-is-lm-bp/</guid>
+      <description>&lt;h1 id=&#34;definição&#34;&gt;&#xA;  Definição&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#defini%c3%a7%c3%a3o&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Teste&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

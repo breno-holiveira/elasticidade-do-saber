@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Breno Oliveira on Economia Integral</title>
-    <link>//localhost:4321/authors/breno-oliveira/</link>
-    <description>Recent content in Breno Oliveira on Economia Integral</description>
+    <title>Breno Oliveira on Elasticidade do Saber</title>
+    <link>//localhost:6631/authors/breno-oliveira/</link>
+    <description>Recent content in Breno Oliveira on Elasticidade do Saber</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/authors/breno-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:6631/authors/breno-oliveira/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Estruturas de Mercado | Monopólio</title>
-      <link>//localhost:4321/posts/monopolio/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/monopolio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>O Modelo Hicks-Hansen</title>
-      <link>//localhost:4321/posts/modelo-is-lm/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/modelo-is-lm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>O Modelo Mundell-Fleming</title>
-      <link>//localhost:4321/posts/modelo-is-lm-bp/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/modelo-is-lm-bp/</guid>
-      <description></description>
+      <title>O modelo Hicks-Hansen</title>
+      <link>//localhost:6631/posts/2024-10-19-hicks-hansen/modelo-is-lm/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:6631/posts/2024-10-19-hicks-hansen/modelo-is-lm/</guid>
+      <description>&lt;h1 id=&#34;definição&#34;&gt;&#xA;  Definição&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#defini%c3%a7%c3%a3o&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;O modelo Hicks-Hansen, também conhecido como modelo keynesiano generalizado ou modelo IS-LM, é uma representação econômica simplificada que descreve a interação entre o mercado de bens e serviços e o mercado monetário, por meio das curvas IS (&lt;em&gt;Investment-Saving&lt;/em&gt;) e LM (&lt;em&gt;Liquidity Money&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;A essência do modelo consiste em explicar como as políticas macroeconômicas impactam a determinação da taxa de juros e do nível de atividade no curto prazo, considerando que a economia esteja sempre em equilíbrio — ou seja, no ponto de interseção entre as curvas IS e LM.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

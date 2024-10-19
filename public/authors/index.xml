@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Economia Integral</title>
-    <link>//localhost:4321/authors/</link>
-    <description>Recent content in Authors on Economia Integral</description>
+    <title>Authors on Elasticidade do Saber</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Elasticidade do Saber</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breno Oliveira</title>
-      <link>//localhost:4321/authors/breno-oliveira/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/authors/breno-oliveira/</guid>
+      <link>/authors/breno-oliveira/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/breno-oliveira/</guid>
       <description></description>
     </item>
     <item>
       <title>Autores de Hugo</title>
-      <link>//localhost:4321/autores/autores-de-hugo/</link>
+      <link>/autores/autores-de-hugo/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>//localhost:4321/autores/autores-de-hugo/</guid>
+      <guid>/autores/autores-de-hugo/</guid>
       <description></description>
     </item>
   </channel>

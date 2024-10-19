@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hicks-Hansen on Economia Integral</title>
-    <link>//localhost:4321/tags/hicks-hansen/</link>
-    <description>Recent content in Hicks-Hansen on Economia Integral</description>
+    <title>Hicks-Hansen on Elasticidade do Saber</title>
+    <link>/tags/hicks-hansen/</link>
+    <description>Recent content in Hicks-Hansen on Elasticidade do Saber</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/hicks-hansen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/hicks-hansen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Modelo Hicks-Hansen</title>
-      <link>//localhost:4321/posts/modelo-is-lm/</link>
+      <link>/posts/2024-10-19-hicks-hansen/modelo-is-lm/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/modelo-is-lm/</guid>
-      <description></description>
+      <guid>/posts/2024-10-19-hicks-hansen/modelo-is-lm/</guid>
+      <description>&lt;p&gt;teste&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Texto alternativo&#34; src=&#34;images/img1.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
