@@ -1,3 +1,15 @@
+authors:
+- Breno Oliveira
+categories:
+- Macroeconomia
+date: "2024-10-19"
+description: 
+series:
+- Modelos Macroeconômicos
+tags:
+- Modelos Macroeconômicos
+title: O modelo Hicks-Hansen
+
 # Introdução
 
 O modelo Mundell-Fleming representa a economia aberta no curto prazo. Seu objetivo é avaliar o impacto de políticas econômicas considerando os diferentes regimes cambiais, ou seja, ele incorpora as relações que um país estabelece com o exterior — reais e monetárias. A taxa de câmbio é a medidora dessas relações.
